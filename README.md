@@ -1,7 +1,5 @@
 # Smart Resume Scanning & Resume Screening System
 
----
-
 ## What this deliverable contains
 - Express server with basic routes:
   - `GET /health` — health check
